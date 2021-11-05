@@ -1,0 +1,763 @@
+iteración 0:
+positions[0]: 44 44 0
+positions[1]: 44 44 44
+positions[2]: 0 0 44
+positions[3]: 0 44 44
+positions[4]: 44 0 44
+positions[5]: 44 44 44
+positions[6]: 44 0 44
+positions[7]: 0 44 44
+positions[8]: 44 0 44
+positions[9]: 44 0 0
+positions[10]: 44 0 0
+positions[11]: 0 44 44
+positions[12]: 44 44 0
+positions[13]: 0 44 44
+positions[14]: 0 44 44
+positions[15]: 0 44 0
+positions[16]: 0 44 44
+positions[17]: 0 0 0
+positions[18]: 44 0 44
+positions[19]: 44 0 0
+positions[20]: 44 0 0
+positions[21]: 44 0 44
+positions[22]: 44 0 44
+positions[23]: 0 44 0
+positions[24]: 0 44 0
+positions[25]: 0 44 0
+positions[26]: 44 0 0
+positions[27]: 0 0 0
+positions[28]: 0 44 44
+positions[29]: 44 44 0
+positions[30]: 0 0 44
+positions[31]: 44 0 44
+positions[32]: 0 0 44
+positions[33]: 44 0 0
+positions[34]: 44 44 44
+positions[35]: 0 44 44
+positions[36]: 0 0 0
+positions[37]: 0 0 44
+positions[38]: 44 0 0
+positions[39]: 44 0 0
+positions[40]: 0 44 44
+positions[41]: 44 44 44
+positions[42]: 0 44 0
+positions[43]: 0 44 0
+positions[44]: 44 0 44
+positions[45]: 0 0 0
+positions[46]: 0 0 0
+positions[47]: 0 0 44
+positions[48]: 44 44 44
+positions[49]: 44 0 0
+positions[50]: 44 44 0
+positions[51]: 44 0 44
+positions[52]: 0 44 44
+positions[53]: 0 44 0
+positions[54]: 0 44 0
+positions[55]: 44 44 44
+positions[56]: 44 44 0
+positions[57]: 0 44 0
+positions[58]: 0 0 44
+positions[59]: 0 0 0
+positions[60]: 44 44 0
+positions[61]: 0 44 44
+positions[62]: 44 0 44
+positions[63]: 44 0 0
+positions[64]: 44 44 44
+positions[65]: 44 44 0
+positions[66]: 0 0 44
+positions[67]: 44 0 44
+positions[68]: 44 44 44
+positions[69]: 0 44 44
+positions[70]: 0 44 0
+positions[71]: 0 44 44
+positions[72]: 0 0 44
+positions[73]: 0 0 0
+positions[74]: 44 44 44
+positions[75]: 0 0 0
+positions[76]: 0 0 44
+positions[77]: 0 0 44
+positions[78]: 44 44 44
+positions[79]: 44 44 44
+positions[80]: 44 44 44
+positions[81]: 0 44 44
+positions[82]: 0 0 44
+positions[83]: 44 0 44
+positions[84]: 0 0 0
+positions[85]: 0 44 0
+positions[86]: 44 0 44
+positions[87]: 0 0 0
+positions[88]: 0 44 44
+positions[89]: 44 0 0
+positions[90]: 0 0 44
+positions[91]: 44 44 44
+positions[92]: 0 0 0
+positions[93]: 44 44 44
+positions[94]: 44 0 0
+positions[95]: 0 0 0
+positions[96]: 44 0 44
+positions[97]: 44 0 0
+positions[98]: 0 44 0
+positions[99]: 44 44 44
+Collapsing objects 0 and 12
+Body 0: 44 44 0 -6.29e+07 -9.46e+06 2.47e+07 1e+21
+Body 12: 44 44 0 -6.64e+08 -2.63e+08 5.33e+08 1e+21
+Body 12 removed
+Body 0 after collapse
+Body 0: 44 44 0 -7.27e+08 -2.73e+08 5.57e+08 2e+21
+
+Collapsing objects 0 and 29
+Body 0: 44 44 0 -7.27e+08 -2.73e+08 5.57e+08 2e+21
+Body 29: 44 44 0 -2.86e+08 -7.05e+08 2.64e+09 1e+21
+Body 29 removed
+Body 0 after collapse
+Body 0: 44 44 0 -1.01e+09 -9.78e+08 3.19e+09 3e+21
+
+Collapsing objects 0 and 50
+Body 0: 44 44 0 -1.01e+09 -9.78e+08 3.19e+09 3e+21
+Body 50: 44 44 0 -9.14e+08 -8.73e+09 2.83e+09 1e+21
+Body 50 removed
+Body 0 after collapse
+Body 0: 44 44 0 -1.93e+09 -9.71e+09 6.02e+09 4e+21
+
+Collapsing objects 0 and 56
+Body 0: 44 44 0 -1.93e+09 -9.71e+09 6.02e+09 4e+21
+Body 56: 44 44 0 -2.72e+09 -3.03e+09 3.04e+09 1e+21
+Body 56 removed
+Body 0 after collapse
+Body 0: 44 44 0 -4.65e+09 -1.27e+10 9.07e+09 5e+21
+
+Collapsing objects 0 and 60
+Body 0: 44 44 0 -4.65e+09 -1.27e+10 9.07e+09 5e+21
+Body 60: 44 44 0 -3.32e+09 -7.17e+08 2.02e+09 1e+21
+Body 60 removed
+Body 0 after collapse
+Body 0: 44 44 0 -7.98e+09 -1.35e+10 1.11e+10 6e+21
+
+Collapsing objects 0 and 65
+Body 0: 44 44 0 -7.98e+09 -1.35e+10 1.11e+10 6e+21
+Body 65: 44 44 0 -2.53e+09 -1.37e+09 3.71e+09 1e+21
+Body 65 removed
+Body 0 after collapse
+Body 0: 44 44 0 -1.05e+10 -1.48e+10 1.48e+10 7e+21
+
+Collapsing objects 1 and 5
+Body 1: 44 44 44 -6.3e+07 -6.71e+07 -7.48e+07 1e+21
+Body 5: 44 44 44 -1.72e+08 -4.58e+08 -2.36e+08 1e+21
+Body 5 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.35e+08 -5.25e+08 -3.11e+08 2e+21
+
+Collapsing objects 1 and 32
+Body 1: 44 44 44 -2.35e+08 -5.25e+08 -3.11e+08 2e+21
+Body 32: 44 44 44 -2.16e+09 -1.47e+09 -9.86e+08 1e+21
+Body 32 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.39e+09 -2e+09 -1.3e+09 3e+21
+
+Collapsing objects 1 and 39
+Body 1: 44 44 44 -2.39e+09 -2e+09 -1.3e+09 3e+21
+Body 39: 44 44 44 -9.1e+08 -2.09e+09 -1.68e+09 1e+21
+Body 39 removed
+Body 1 after collapse
+Body 1: 44 44 44 -3.3e+09 -4.09e+09 -2.98e+09 4e+21
+
+Collapsing objects 1 and 46
+Body 1: 44 44 44 -3.3e+09 -4.09e+09 -2.98e+09 4e+21
+Body 46: 44 44 44 -1.58e+09 -7.39e+08 -3.85e+09 1e+21
+Body 46 removed
+Body 1 after collapse
+Body 1: 44 44 44 -4.89e+09 -4.83e+09 -6.83e+09 5e+21
+
+Collapsing objects 1 and 52
+Body 1: 44 44 44 -4.89e+09 -4.83e+09 -6.83e+09 5e+21
+Body 52: 44 44 44 -4.05e+09 -3.42e+09 -2.89e+08 1e+21
+Body 52 removed
+Body 1 after collapse
+Body 1: 44 44 44 -8.93e+09 -8.25e+09 -7.11e+09 6e+21
+
+Collapsing objects 1 and 59
+Body 1: 44 44 44 -8.93e+09 -8.25e+09 -7.11e+09 6e+21
+Body 59: 44 44 44 -2.33e+09 -3.46e+08 -5.24e+09 1e+21
+Body 59 removed
+Body 1 after collapse
+Body 1: 44 44 44 -1.13e+10 -8.6e+09 -1.24e+10 7e+21
+
+Collapsing objects 1 and 62
+Body 1: 44 44 44 -1.13e+10 -8.6e+09 -1.24e+10 7e+21
+Body 62: 44 44 44 -1.63e+09 -3.25e+09 -8.42e+08 1e+21
+Body 62 removed
+Body 1 after collapse
+Body 1: 44 44 44 -1.29e+10 -1.18e+10 -1.32e+10 8e+21
+
+Collapsing objects 1 and 68
+Body 1: 44 44 44 -1.29e+10 -1.18e+10 -1.32e+10 8e+21
+Body 68: 44 44 44 -4.48e+09 -1.07e+10 -5.38e+09 1e+21
+Body 68 removed
+Body 1 after collapse
+Body 1: 44 44 44 -1.74e+10 -2.26e+10 -1.86e+10 9e+21
+
+Collapsing objects 1 and 72
+Body 1: 44 44 44 -1.74e+10 -2.26e+10 -1.86e+10 9e+21
+Body 72: 44 44 44 -1.25e+09 -2.73e+09 -3.08e+09 1e+21
+Body 72 removed
+Body 1 after collapse
+Body 1: 44 44 44 -1.86e+10 -2.53e+10 -2.17e+10 1e+22
+
+Collapsing objects 1 and 73
+Body 1: 44 44 44 -1.86e+10 -2.53e+10 -2.17e+10 1e+22
+Body 73: 44 44 44 -5.4e+09 -6.31e+09 -5.05e+09 1e+21
+Body 73 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.4e+10 -3.16e+10 -2.67e+10 1.1e+22
+
+Collapsing objects 1 and 74
+Body 1: 44 44 44 -2.4e+10 -3.16e+10 -2.67e+10 1.1e+22
+Body 74: 44 44 44 -1.31e+09 -8.17e+09 -2.95e+09 1e+21
+Body 74 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.53e+10 -3.98e+10 -2.97e+10 1.2e+22
+
+Collapsing objects 1 and 85
+Body 1: 44 44 44 -2.53e+10 -3.98e+10 -2.97e+10 1.2e+22
+Body 85: 44 44 44 -1.61e+09 -1.99e+09 -4.97e+09 1e+21
+Body 85 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.69e+10 -4.18e+10 -3.46e+10 1.3e+22
+
+Collapsing objects 1 and 87
+Body 1: 44 44 44 -2.69e+10 -4.18e+10 -3.46e+10 1.3e+22
+Body 87: 44 44 44 -1.52e+08 -1.4e+09 -9.96e+08 1e+21
+Body 87 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.71e+10 -4.32e+10 -3.56e+10 1.4e+22
+
+Collapsing objects 1 and 93
+Body 1: 44 44 44 -2.71e+10 -4.32e+10 -3.56e+10 1.4e+22
+Body 93: 44 44 44 -8.02e+08 -7.78e+09 -2.6e+08 1e+21
+Body 93 removed
+Body 1 after collapse
+Body 1: 44 44 44 -2.79e+10 -5.1e+10 -3.59e+10 1.5e+22
+
+Collapsing objects 2 and 27
+Body 2: 0 0 44 1.24e+08 3.08e+08 -2.13e+07 1e+21
+Body 27: 0 0 44 8.73e+08 4.38e+08 -2.09e+09 1e+21
+Body 27 removed
+Body 2 after collapse
+Body 2: 0 0 44 9.97e+08 7.46e+08 -2.11e+09 2e+21
+
+Collapsing objects 2 and 29
+Body 2: 0 0 44 9.97e+08 7.46e+08 -2.11e+09 2e+21
+Body 29: 0 0 44 2.33e+09 1.82e+09 -1.54e+09 1e+21
+Body 29 removed
+Body 2 after collapse
+Body 2: 0 0 44 3.33e+09 2.56e+09 -3.65e+09 3e+21
+
+Collapsing objects 2 and 33
+Body 2: 0 0 44 3.33e+09 2.56e+09 -3.65e+09 3e+21
+Body 33: 0 0 44 4.66e+07 2.76e+09 -1.69e+09 1e+21
+Body 33 removed
+Body 2 after collapse
+Body 2: 0 0 44 3.37e+09 5.32e+09 -5.34e+09 4e+21
+
+Collapsing objects 2 and 42
+Body 2: 0 0 44 3.37e+09 5.32e+09 -5.34e+09 4e+21
+Body 42: 0 0 44 5.16e+08 6.43e+09 -3.74e+09 1e+21
+Body 42 removed
+Body 2 after collapse
+Body 2: 0 0 44 3.89e+09 1.18e+10 -9.08e+09 5e+21
+
+Collapsing objects 2 and 49
+Body 2: 0 0 44 3.89e+09 1.18e+10 -9.08e+09 5e+21
+Body 49: 0 0 44 4.04e+09 9.17e+07 -1.55e+09 1e+21
+Body 49 removed
+Body 2 after collapse
+Body 2: 0 0 44 7.93e+09 1.18e+10 -1.06e+10 6e+21
+
+Collapsing objects 2 and 54
+Body 2: 0 0 44 7.93e+09 1.18e+10 -1.06e+10 6e+21
+Body 54: 0 0 44 1.5e+08 3.01e+09 -3.61e+09 1e+21
+Body 54 removed
+Body 2 after collapse
+Body 2: 0 0 44 8.08e+09 1.49e+10 -1.42e+10 7e+21
+
+Collapsing objects 2 and 59
+Body 2: 0 0 44 8.08e+09 1.49e+10 -1.42e+10 7e+21
+Body 59: 0 0 44 1.14e+09 3.08e+09 -2.22e+09 1e+21
+Body 59 removed
+Body 2 after collapse
+Body 2: 0 0 44 9.22e+09 1.79e+10 -1.65e+10 8e+21
+
+Collapsing objects 2 and 62
+Body 2: 0 0 44 9.22e+09 1.79e+10 -1.65e+10 8e+21
+Body 62: 0 0 44 3.13e+09 4.32e+09 -3.05e+09 1e+21
+Body 62 removed
+Body 2 after collapse
+Body 2: 0 0 44 1.23e+10 2.23e+10 -1.95e+10 9e+21
+
+Collapsing objects 2 and 63
+Body 2: 0 0 44 1.23e+10 2.23e+10 -1.95e+10 9e+21
+Body 63: 0 0 44 1.06e+09 1.7e+10 -8.8e+08 1e+21
+Body 63 removed
+Body 2 after collapse
+Body 2: 0 0 44 1.34e+10 3.92e+10 -2.04e+10 1e+22
+
+Collapsing objects 2 and 65
+Body 2: 0 0 44 1.34e+10 3.92e+10 -2.04e+10 1e+22
+Body 65: 0 0 44 6.4e+08 2.58e+09 -2.67e+09 1e+21
+Body 65 removed
+Body 2 after collapse
+Body 2: 0 0 44 1.4e+10 4.18e+10 -2.3e+10 1.1e+22
+
+Collapsing objects 2 and 73
+Body 2: 0 0 44 1.4e+10 4.18e+10 -2.3e+10 1.1e+22
+Body 73: 0 0 44 1.75e+09 4.53e+08 -8.57e+09 1e+21
+Body 73 removed
+Body 2 after collapse
+Body 2: 0 0 44 1.58e+10 4.23e+10 -3.16e+10 1.2e+22
+
+Collapsing objects 3 and 6
+Body 3: 0 44 44 1.08e+08 -3.33e+08 -4.02e+07 1e+21
+Body 6: 0 44 44 6.9e+08 -3.61e+08 -4.47e+08 1e+21
+Body 6 removed
+Body 3 after collapse
+Body 3: 0 44 44 7.99e+08 -6.94e+08 -4.87e+08 2e+21
+
+Collapsing objects 3 and 10
+Body 3: 0 44 44 7.99e+08 -6.94e+08 -4.87e+08 2e+21
+Body 10: 0 44 44 4.08e+07 -9.88e+08 -2.15e+08 1e+21
+Body 10 removed
+Body 3 after collapse
+Body 3: 0 44 44 8.39e+08 -1.68e+09 -7.03e+08 3e+21
+
+Collapsing objects 3 and 11
+Body 3: 0 44 44 8.39e+08 -1.68e+09 -7.03e+08 3e+21
+Body 11: 0 44 44 2.39e+07 -1.45e+08 -1.69e+08 1e+21
+Body 11 removed
+Body 3 after collapse
+Body 3: 0 44 44 8.63e+08 -1.83e+09 -8.72e+08 4e+21
+
+Collapsing objects 3 and 12
+Body 3: 0 44 44 8.63e+08 -1.83e+09 -8.72e+08 4e+21
+Body 12: 0 44 44 5.95e+08 -1.22e+08 -2.96e+08 1e+21
+Body 12 removed
+Body 3 after collapse
+Body 3: 0 44 44 1.46e+09 -1.95e+09 -1.17e+09 5e+21
+
+Collapsing objects 3 and 14
+Body 3: 0 44 44 1.46e+09 -1.95e+09 -1.17e+09 5e+21
+Body 14: 0 44 44 6.5e+08 -6.86e+08 -6.12e+08 1e+21
+Body 14 removed
+Body 3 after collapse
+Body 3: 0 44 44 2.11e+09 -2.63e+09 -1.78e+09 6e+21
+
+Collapsing objects 3 and 26
+Body 3: 0 44 44 2.11e+09 -2.63e+09 -1.78e+09 6e+21
+Body 26: 0 44 44 3.27e+07 -4.71e+08 -1.52e+09 1e+21
+Body 26 removed
+Body 3 after collapse
+Body 3: 0 44 44 2.14e+09 -3.11e+09 -3.3e+09 7e+21
+
+Collapsing objects 3 and 29
+Body 3: 0 44 44 2.14e+09 -3.11e+09 -3.3e+09 7e+21
+Body 29: 0 44 44 4.04e+08 -2.1e+08 -4.73e+08 1e+21
+Body 29 removed
+Body 3 after collapse
+Body 3: 0 44 44 2.55e+09 -3.32e+09 -3.77e+09 8e+21
+
+Collapsing objects 3 and 33
+Body 3: 0 44 44 2.55e+09 -3.32e+09 -3.77e+09 8e+21
+Body 33: 0 44 44 1.82e+08 -1.42e+09 -1.85e+09 1e+21
+Body 33 removed
+Body 3 after collapse
+Body 3: 0 44 44 2.73e+09 -4.74e+09 -5.62e+09 9e+21
+
+Collapsing objects 3 and 41
+Body 3: 0 44 44 2.73e+09 -4.74e+09 -5.62e+09 9e+21
+Body 41: 0 44 44 4.97e+09 -9.04e+09 -1.65e+09 1e+21
+Body 41 removed
+Body 3 after collapse
+Body 3: 0 44 44 7.7e+09 -1.38e+10 -7.27e+09 1e+22
+
+Collapsing objects 3 and 46
+Body 3: 0 44 44 7.7e+09 -1.38e+10 -7.27e+09 1e+22
+Body 46: 0 44 44 1.59e+09 -4.44e+09 -4.38e+08 1e+21
+Body 46 removed
+Body 3 after collapse
+Body 3: 0 44 44 9.29e+09 -1.82e+10 -7.7e+09 1.1e+22
+
+Collapsing objects 3 and 50
+Body 3: 0 44 44 9.29e+09 -1.82e+10 -7.7e+09 1.1e+22
+Body 50: 0 44 44 7.02e+09 -1.11e+10 -2.28e+09 1e+21
+Body 50 removed
+Body 3 after collapse
+Body 3: 0 44 44 1.63e+10 -2.94e+10 -9.99e+09 1.2e+22
+
+Collapsing objects 3 and 52
+Body 3: 0 44 44 1.63e+10 -2.94e+10 -9.99e+09 1.2e+22
+Body 52: 0 44 44 2.27e+08 -1.63e+09 -4.72e+09 1e+21
+Body 52 removed
+Body 3 after collapse
+Body 3: 0 44 44 1.65e+10 -3.1e+10 -1.47e+10 1.3e+22
+
+Collapsing objects 3 and 55
+Body 3: 0 44 44 1.65e+10 -3.1e+10 -1.47e+10 1.3e+22
+Body 55: 0 44 44 1.67e+08 -2.06e+09 -6e+09 1e+21
+Body 55 removed
+Body 3 after collapse
+Body 3: 0 44 44 1.67e+10 -3.31e+10 -2.07e+10 1.4e+22
+
+Collapsing objects 3 and 61
+Body 3: 0 44 44 1.67e+10 -3.31e+10 -2.07e+10 1.4e+22
+Body 61: 0 44 44 7.69e+09 -5.77e+08 -7.58e+09 1e+21
+Body 61 removed
+Body 3 after collapse
+Body 3: 0 44 44 2.44e+10 -3.36e+10 -2.83e+10 1.5e+22
+
+Collapsing objects 4 and 5
+Body 4: 44 0 44 -2.85e+08 1.64e+08 -2.11e+08 1e+21
+Body 5: 44 0 44 -1.64e+08 1.13e+08 -4.03e+08 1e+21
+Body 5 removed
+Body 4 after collapse
+Body 4: 44 0 44 -4.49e+08 2.77e+08 -6.14e+08 2e+21
+
+Collapsing objects 4 and 6
+Body 4: 44 0 44 -4.49e+08 2.77e+08 -6.14e+08 2e+21
+Body 6: 44 0 44 -8.8e+07 5.68e+08 -4.45e+07 1e+21
+Body 6 removed
+Body 4 after collapse
+Body 4: 44 0 44 -5.37e+08 8.45e+08 -6.58e+08 3e+21
+
+Collapsing objects 4 and 11
+Body 4: 44 0 44 -5.37e+08 8.45e+08 -6.58e+08 3e+21
+Body 11: 44 0 44 -1.12e+08 6.5e+07 -5.8e+08 1e+21
+Body 11 removed
+Body 4 after collapse
+Body 4: 44 0 44 -6.49e+08 9.1e+08 -1.24e+09 4e+21
+
+Collapsing objects 4 and 14
+Body 4: 44 0 44 -6.49e+08 9.1e+08 -1.24e+09 4e+21
+Body 14: 44 0 44 -1.54e+09 5.08e+07 -9.62e+08 1e+21
+Body 14 removed
+Body 4 after collapse
+Body 4: 44 0 44 -2.19e+09 9.61e+08 -2.2e+09 5e+21
+
+Collapsing objects 4 and 15
+Body 4: 44 0 44 -2.19e+09 9.61e+08 -2.2e+09 5e+21
+Body 15: 44 0 44 -1.75e+09 1.7e+07 -1.64e+08 1e+21
+Body 15 removed
+Body 4 after collapse
+Body 4: 44 0 44 -3.94e+09 9.78e+08 -2.36e+09 6e+21
+
+Collapsing objects 4 and 21
+Body 4: 44 0 44 -3.94e+09 9.78e+08 -2.36e+09 6e+21
+Body 21: 44 0 44 -9.92e+08 2.36e+09 -4.45e+08 1e+21
+Body 21 removed
+Body 4 after collapse
+Body 4: 44 0 44 -4.93e+09 3.34e+09 -2.81e+09 7e+21
+
+Collapsing objects 4 and 28
+Body 4: 44 0 44 -4.93e+09 3.34e+09 -2.81e+09 7e+21
+Body 28: 44 0 44 -3.6e+08 2.82e+09 -1.59e+08 1e+21
+Body 28 removed
+Body 4 after collapse
+Body 4: 44 0 44 -5.29e+09 6.16e+09 -2.97e+09 8e+21
+
+Collapsing objects 4 and 32
+Body 4: 44 0 44 -5.29e+09 6.16e+09 -2.97e+09 8e+21
+Body 32: 44 0 44 -6.18e+09 4.25e+09 -1.08e+10 1e+21
+Body 32 removed
+Body 4 after collapse
+Body 4: 44 0 44 -1.15e+10 1.04e+10 -1.37e+10 9e+21
+
+Collapsing objects 4 and 37
+Body 4: 44 0 44 -1.15e+10 1.04e+10 -1.37e+10 9e+21
+Body 37: 44 0 44 -1.14e+09 4.97e+09 -2.16e+09 1e+21
+Body 37 removed
+Body 4 after collapse
+Body 4: 44 0 44 -1.26e+10 1.54e+10 -1.59e+10 1e+22
+
+Collapsing objects 4 and 39
+Body 4: 44 0 44 -1.26e+10 1.54e+10 -1.59e+10 1e+22
+Body 39: 44 0 44 -1.41e+09 2.07e+09 -2.3e+09 1e+21
+Body 39 removed
+Body 4 after collapse
+Body 4: 44 0 44 -1.4e+10 1.74e+10 -1.82e+10 1.1e+22
+
+Collapsing objects 4 and 43
+Body 4: 44 0 44 -1.4e+10 1.74e+10 -1.82e+10 1.1e+22
+Body 43: 44 0 44 -6.73e+08 1.48e+09 -7.13e+09 1e+21
+Body 43 removed
+Body 4 after collapse
+Body 4: 44 0 44 -1.47e+10 1.89e+10 -2.53e+10 1.2e+22
+
+Collapsing objects 4 and 46
+Body 4: 44 0 44 -1.47e+10 1.89e+10 -2.53e+10 1.2e+22
+Body 46: 44 0 44 -2.54e+09 3.02e+09 -6.04e+09 1e+21
+Body 46 removed
+Body 4 after collapse
+Body 4: 44 0 44 -1.72e+10 2.2e+10 -3.14e+10 1.3e+22
+
+Collapsing objects 4 and 52
+Body 4: 44 0 44 -1.72e+10 2.2e+10 -3.14e+10 1.3e+22
+Body 52: 44 0 44 -6.5e+09 2.51e+08 -3.21e+09 1e+21
+Body 52 removed
+Body 4 after collapse
+Body 4: 44 0 44 -2.37e+10 2.22e+10 -3.46e+10 1.4e+22
+
+Collapsing objects 5 and 6
+Body 5: 44 0 0 -3.71e+08 6.01e+08 5.54e+08 1e+21
+Body 6: 44 0 0 -1.07e+08 8.25e+07 2.13e+09 1e+21
+Body 6 removed
+Body 5 after collapse
+Body 5: 44 0 0 -4.77e+08 6.83e+08 2.69e+09 2e+21
+
+Collapsing objects 5 and 9
+Body 5: 44 0 0 -4.77e+08 6.83e+08 2.69e+09 2e+21
+Body 9: 44 0 0 -2.16e+09 4.45e+08 1.64e+08 1e+21
+Body 9 removed
+Body 5 after collapse
+Body 5: 44 0 0 -2.64e+09 1.13e+09 2.85e+09 3e+21
+
+Collapsing objects 5 and 10
+Body 5: 44 0 0 -2.64e+09 1.13e+09 2.85e+09 3e+21
+Body 10: 44 0 0 -3.18e+08 4.28e+09 1.44e+09 1e+21
+Body 10 removed
+Body 5 after collapse
+Body 5: 44 0 0 -2.96e+09 5.41e+09 4.29e+09 4e+21
+
+Collapsing objects 5 and 14
+Body 5: 44 0 0 -2.96e+09 5.41e+09 4.29e+09 4e+21
+Body 14: 44 0 0 -1.87e+09 7.03e+08 9.61e+08 1e+21
+Body 14 removed
+Body 5 after collapse
+Body 5: 44 0 0 -4.83e+09 6.11e+09 5.25e+09 5e+21
+
+Collapsing objects 5 and 16
+Body 5: 44 0 0 -4.83e+09 6.11e+09 5.25e+09 5e+21
+Body 16: 44 0 0 -1.49e+09 3.62e+07 2.86e+09 1e+21
+Body 16 removed
+Body 5 after collapse
+Body 5: 44 0 0 -6.32e+09 6.15e+09 8.11e+09 6e+21
+
+Collapsing objects 5 and 18
+Body 5: 44 0 0 -6.32e+09 6.15e+09 8.11e+09 6e+21
+Body 18: 44 0 0 -1.58e+09 8.19e+08 3.2e+09 1e+21
+Body 18 removed
+Body 5 after collapse
+Body 5: 44 0 0 -7.91e+09 6.97e+09 1.13e+10 7e+21
+
+Collapsing objects 5 and 19
+Body 5: 44 0 0 -7.91e+09 6.97e+09 1.13e+10 7e+21
+Body 19: 44 0 0 -1.81e+09 3.08e+09 1.41e+09 1e+21
+Body 19 removed
+Body 5 after collapse
+Body 5: 44 0 0 -9.72e+09 1e+10 1.27e+10 8e+21
+
+Collapsing objects 5 and 24
+Body 5: 44 0 0 -9.72e+09 1e+10 1.27e+10 8e+21
+Body 24: 44 0 0 -2.53e+08 1.56e+09 2.3e+09 1e+21
+Body 24 removed
+Body 5 after collapse
+Body 5: 44 0 0 -9.97e+09 1.16e+10 1.5e+10 9e+21
+
+Collapsing objects 5 and 29
+Body 5: 44 0 0 -9.97e+09 1.16e+10 1.5e+10 9e+21
+Body 29: 44 0 0 -3.12e+09 5.83e+08 1.14e+09 1e+21
+Body 29 removed
+Body 5 after collapse
+Body 5: 44 0 0 -1.31e+10 1.22e+10 1.62e+10 1e+22
+
+Collapsing objects 5 and 36
+Body 5: 44 0 0 -1.31e+10 1.22e+10 1.62e+10 1e+22
+Body 36: 44 0 0 -6.69e+08 2.49e+09 6.35e+09 1e+21
+Body 36 removed
+Body 5 after collapse
+Body 5: 44 0 0 -1.38e+10 1.47e+10 2.25e+10 1.1e+22
+
+Collapsing objects 5 and 38
+Body 5: 44 0 0 -1.38e+10 1.47e+10 2.25e+10 1.1e+22
+Body 38: 44 0 0 -2.86e+09 2.39e+09 3.59e+09 1e+21
+Body 38 removed
+Body 5 after collapse
+Body 5: 44 0 0 -1.66e+10 1.71e+10 2.61e+10 1.2e+22
+
+Collapsing objects 5 and 40
+Body 5: 44 0 0 -1.66e+10 1.71e+10 2.61e+10 1.2e+22
+Body 40: 44 0 0 -9.33e+08 7.2e+09 2.65e+09 1e+21
+Body 40 removed
+Body 5 after collapse
+Body 5: 44 0 0 -1.76e+10 2.43e+10 2.87e+10 1.3e+22
+
+Collapsing objects 6 and 8
+Body 6: 0 44 0 4.66e+08 -7.28e+08 1.31e+09 1e+21
+Body 8: 0 44 0 8.35e+08 -1.28e+09 7.86e+08 1e+21
+Body 8 removed
+Body 6 after collapse
+Body 6: 0 44 0 1.3e+09 -2.01e+09 2.1e+09 2e+21
+
+Collapsing objects 6 and 9
+Body 6: 0 44 0 1.3e+09 -2.01e+09 2.1e+09 2e+21
+Body 9: 0 44 0 8.22e+08 -2.79e+07 1.81e+09 1e+21
+Body 9 removed
+Body 6 after collapse
+Body 6: 0 44 0 2.12e+09 -2.04e+09 3.92e+09 3e+21
+
+Collapsing objects 6 and 10
+Body 6: 0 44 0 2.12e+09 -2.04e+09 3.92e+09 3e+21
+Body 10: 0 44 0 6.14e+08 -7.29e+08 7.64e+08 1e+21
+Body 10 removed
+Body 6 after collapse
+Body 6: 0 44 0 2.74e+09 -2.77e+09 4.68e+09 4e+21
+
+Collapsing objects 6 and 13
+Body 6: 0 44 0 2.74e+09 -2.77e+09 4.68e+09 4e+21
+Body 13: 0 44 0 5.65e+08 -2.29e+09 1.6e+09 1e+21
+Body 13 removed
+Body 6 after collapse
+Body 6: 0 44 0 3.3e+09 -5.06e+09 6.28e+09 5e+21
+
+Collapsing objects 6 and 14
+Body 6: 0 44 0 3.3e+09 -5.06e+09 6.28e+09 5e+21
+Body 14: 0 44 0 9.04e+08 -1.65e+09 3.41e+09 1e+21
+Body 14 removed
+Body 6 after collapse
+Body 6: 0 44 0 4.21e+09 -6.71e+09 9.69e+09 6e+21
+
+Collapsing objects 6 and 17
+Body 6: 0 44 0 4.21e+09 -6.71e+09 9.69e+09 6e+21
+Body 17: 0 44 0 1.85e+09 -7.69e+09 1.17e+09 1e+21
+Body 17 removed
+Body 6 after collapse
+Body 6: 0 44 0 6.06e+09 -1.44e+10 1.09e+10 7e+21
+
+Collapsing objects 6 and 18
+Body 6: 0 44 0 6.06e+09 -1.44e+10 1.09e+10 7e+21
+Body 18: 0 44 0 3.73e+09 -2.69e+07 2.08e+09 1e+21
+Body 18 removed
+Body 6 after collapse
+Body 6: 0 44 0 9.79e+09 -1.44e+10 1.29e+10 8e+21
+
+Collapsing objects 6 and 19
+Body 6: 0 44 0 9.79e+09 -1.44e+10 1.29e+10 8e+21
+Body 19: 0 44 0 2.67e+09 -1.73e+09 2.28e+09 1e+21
+Body 19 removed
+Body 6 after collapse
+Body 6: 0 44 0 1.25e+10 -1.62e+10 1.52e+10 9e+21
+
+Collapsing objects 6 and 21
+Body 6: 0 44 0 1.25e+10 -1.62e+10 1.52e+10 9e+21
+Body 21: 0 44 0 1.32e+10 -2.12e+09 1.68e+09 1e+21
+Body 21 removed
+Body 6 after collapse
+Body 6: 0 44 0 2.56e+10 -1.83e+10 1.69e+10 1e+22
+
+Collapsing objects 6 and 25
+Body 6: 0 44 0 2.56e+10 -1.83e+10 1.69e+10 1e+22
+Body 25: 0 44 0 4.14e+09 -9.68e+08 3.84e+09 1e+21
+Body 25 removed
+Body 6 after collapse
+Body 6: 0 44 0 2.98e+10 -1.93e+10 2.08e+10 1.1e+22
+
+Collapsing objects 6 and 29
+Body 6: 0 44 0 2.98e+10 -1.93e+10 2.08e+10 1.1e+22
+Body 29: 0 44 0 1.39e+09 -2.7e+09 5.85e+09 1e+21
+Body 29 removed
+Body 6 after collapse
+Body 6: 0 44 0 3.11e+10 -2.2e+10 2.66e+10 1.2e+22
+
+Collapsing objects 7 and 8
+Body 7: 0 0 0 1.56e+09 1.77e+08 1.07e+09 1e+21
+Body 8: 0 0 0 3.12e+09 2.09e+09 5.47e+08 1e+21
+Body 8 removed
+Body 7 after collapse
+Body 7: 0 0 0 4.68e+09 2.26e+09 1.62e+09 2e+21
+
+Collapsing objects 7 and 9
+Body 7: 0 0 0 4.68e+09 2.26e+09 1.62e+09 2e+21
+Body 9: 0 0 0 7.87e+08 9.51e+08 1.45e+09 1e+21
+Body 9 removed
+Body 7 after collapse
+Body 7: 0 0 0 5.47e+09 3.21e+09 3.07e+09 3e+21
+
+Collapsing objects 7 and 10
+Body 7: 0 0 0 5.47e+09 3.21e+09 3.07e+09 3e+21
+Body 10: 0 0 0 7.89e+08 2.3e+09 2.46e+09 1e+21
+Body 10 removed
+Body 7 after collapse
+Body 7: 0 0 0 6.26e+09 5.51e+09 5.54e+09 4e+21
+
+Collapsing objects 7 and 11
+Body 7: 0 0 0 6.26e+09 5.51e+09 5.54e+09 4e+21
+Body 11: 0 0 0 3.66e+08 3.19e+09 3.45e+09 1e+21
+Body 11 removed
+Body 7 after collapse
+Body 7: 0 0 0 6.62e+09 8.7e+09 8.99e+09 5e+21
+
+Collapsing objects 7 and 12
+Body 7: 0 0 0 6.62e+09 8.7e+09 8.99e+09 5e+21
+Body 12: 0 0 0 1.68e+09 1.62e+09 2.69e+09 1e+21
+Body 12 removed
+Body 7 after collapse
+Body 7: 0 0 0 8.3e+09 1.03e+10 1.17e+10 6e+21
+
+Collapsing objects 7 and 13
+Body 7: 0 0 0 8.3e+09 1.03e+10 1.17e+10 6e+21
+Body 13: 0 0 0 1.97e+09 4.96e+08 5.65e+09 1e+21
+Body 13 removed
+Body 7 after collapse
+Body 7: 0 0 0 1.03e+10 1.08e+10 1.73e+10 7e+21
+
+Collapsing objects 7 and 14
+Body 7: 0 0 0 1.03e+10 1.08e+10 1.73e+10 7e+21
+Body 14: 0 0 0 2.75e+09 3.06e+09 2.61e+09 1e+21
+Body 14 removed
+Body 7 after collapse
+Body 7: 0 0 0 1.3e+10 1.39e+10 1.99e+10 8e+21
+
+Collapsing objects 7 and 15
+Body 7: 0 0 0 1.3e+10 1.39e+10 1.99e+10 8e+21
+Body 15: 0 0 0 2.72e+09 2e+09 3.92e+09 1e+21
+Body 15 removed
+Body 7 after collapse
+Body 7: 0 0 0 1.57e+10 1.59e+10 2.39e+10 9e+21
+
+Collapsing objects 7 and 16
+Body 7: 0 0 0 1.57e+10 1.59e+10 2.39e+10 9e+21
+Body 16: 0 0 0 8.36e+08 5.05e+09 1.25e+10 1e+21
+Body 16 removed
+Body 7 after collapse
+Body 7: 0 0 0 1.66e+10 2.09e+10 3.63e+10 1e+22
+
+Collapsing objects 7 and 17
+Body 7: 0 0 0 1.66e+10 2.09e+10 3.63e+10 1e+22
+Body 17: 0 0 0 1.03e+08 5.05e+09 5.22e+09 1e+21
+Body 17 removed
+Body 7 after collapse
+Body 7: 0 0 0 1.67e+10 2.6e+10 4.16e+10 1.1e+22
+
+Collapsing objects 7 and 18
+Body 7: 0 0 0 1.67e+10 2.6e+10 4.16e+10 1.1e+22
+Body 18: 0 0 0 1.65e+09 5.18e+09 3.5e+09 1e+21
+Body 18 removed
+Body 7 after collapse
+Body 7: 0 0 0 1.83e+10 3.12e+10 4.51e+10 1.2e+22
+
+iteración 1:
+positions[0]: 0 0 44
+positions[1]: 0 0 0
+positions[2]: 44 44 0
+positions[3]: 44 0 0
+positions[4]: 0 44 0
+positions[5]: 0 44 44
+positions[6]: 44 0 44
+positions[7]: 44 44 44
+iteración 2:
+positions[0]: 44 44 0
+positions[1]: 44 44 44
+positions[2]: 0 0 44
+positions[3]: 0 44 44
+positions[4]: 44 0 44
+positions[5]: 44 0 0
+positions[6]: 0 44 0
+positions[7]: 0 0 0

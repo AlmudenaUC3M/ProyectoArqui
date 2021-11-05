@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2/calculations.hpp
+fstream
+-
+
+/home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2/sim-aos.cpp
+iostream
+-
+random
+-
+fstream
+-
+iomanip
+-
+sim-aos.hpp
+/home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2/sim-aos.hpp
+calculations.hpp
+/home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2/calculations.hpp
+
+/home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2/sim-aos.hpp
+

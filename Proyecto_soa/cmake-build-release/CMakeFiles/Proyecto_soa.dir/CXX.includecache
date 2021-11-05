@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/calculations.cpp
+iostream
+-
+cmath
+-
+sim-soa.hpp
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/sim-soa.hpp
+calculations.hpp
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/calculations.hpp
+iomanip
+-
+
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/calculations.hpp
+fstream
+-
+
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/sim-soa.cpp
+iostream
+-
+random
+-
+fstream
+-
+iomanip
+-
+sim-soa.hpp
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/sim-soa.hpp
+calculations.hpp
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/calculations.hpp
+
+/home/diego/Descargas/SOA BUENO ORDENADO/Proyecto_soa (otra copia)-20211021T085806Z-001/Proyecto_soa (otra copia)/sim-soa.hpp
+

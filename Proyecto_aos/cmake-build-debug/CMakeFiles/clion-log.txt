@@ -1,0 +1,4 @@
+/snap/clion/169/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/diego/Descargas/aos lucia/Proyecto_aos2-20211022T140605Z-001/Proyecto_aos2/cmake-build-debug
